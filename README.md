@@ -1,6 +1,6 @@
 # Modeling
 
-######Predicting the price using three basic machine learning methods:
+#####Predicting the price using three basic machine learning methods:
 - Linear regression
 - Decision trees
 - Random Forest.
