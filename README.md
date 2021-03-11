@@ -19,7 +19,7 @@ RMSE is the main metric for evaluating model performance. I also used cross-vali
 
  - cross-validate the three models and compare them
 
-###### Fine-tune Random ForestFine-tune Random Forest
+###### Fine-tune Random Forest
 
 - Grid Search
 - Randomized search
